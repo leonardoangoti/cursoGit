@@ -23,3 +23,6 @@ $ git push
 Criando breanch
 
 $ git breanch develop
+
+Realizando marge
+$ git marge master
