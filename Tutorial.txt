@@ -31,3 +31,18 @@ $ git chekout develop
 Realizando marge
 
 $ git marge master
+
+Criando tarefa DESENV-02
+
+
+
+
+
+
+
+
+
+
+
+
+
