@@ -23,3 +23,7 @@ $ git push
 Criando breanch
 
 $ git breanch develop
+
+Mudando de branch
+
+$ git chekout develop
