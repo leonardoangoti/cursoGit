@@ -31,3 +31,7 @@ $ git chekout develop
 Realizando marge
 
 $ git marge master
+
+Criando branch git flow
+
+$ git checkout -b feature_branch
