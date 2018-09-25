@@ -34,6 +34,7 @@ $ git marge master
 
 Criando tarefa DESENV-02
 
+Commit na develop
 
 
 
