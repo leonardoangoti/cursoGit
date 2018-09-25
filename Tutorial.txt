@@ -1,0 +1,9 @@
+Tutorial Git
+
+Iniciando repositorio. 
+
+$ git init
+
+Adicionando arquivo no indici
+
+$ git add arquivo.txt
