@@ -16,3 +16,6 @@ Adicionando repositorio remoto
 
 $ git remote add origin url
 
+Enviando para repositorio remoto
+
+$ git push
