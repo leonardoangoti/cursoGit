@@ -32,6 +32,10 @@ Realizando marge
 
 $ git marge master
 
+Criando branch git flow
+
+$ git checkout -b feature_branch
+
 Criando tarefa DESENV-02
 
 
@@ -46,3 +50,4 @@ Criando tarefa DESENV-02
 
 
 
+>>>>>>> refs/heads/develop
