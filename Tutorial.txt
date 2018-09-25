@@ -11,3 +11,7 @@ $ git add arquivo.txt
 Comitando
 
 $ git commit -m 'mensagem'
+
+Enviando para repositorio remoto
+
+$ git push
