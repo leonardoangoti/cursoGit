@@ -27,3 +27,7 @@ $ git breanch develop
 Mudando de branch
 
 $ git chekout develop
+
+Realizando marge
+
+$ git marge master
